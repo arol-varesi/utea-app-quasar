@@ -13,7 +13,7 @@
         </q-btn>
 
         <q-toolbar-title>
-          Quasar App
+          UTEA App (using @quasar/cmd)
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
